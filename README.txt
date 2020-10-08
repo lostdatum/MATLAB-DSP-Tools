@@ -1,8 +1,11 @@
-Digital signal processing tools for MATLAB/OCTAVE/SCILAB
+Digital signal processing tools for MATLAB
 
 I originally made this to get a better understanding of convolution and cross-
 correlation operations. Then I figured this could be useful to students, or 
 engineers who want to go over their basics again.
+
+Actually this was developped with OCTAVE 5.2.0 but it should be compatible,
+with MATLAB, at worst with some minor adjustements.
 
 This package contains:
 >> Functions
